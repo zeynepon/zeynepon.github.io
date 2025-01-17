@@ -1,100 +1,70 @@
-<p align="center">
-  <img src="/docs/animation/animation.gif" width="150">
-</p>
-<h1 align="center">Mobile App Landing Page Template</h1>
-<p>
-  <a href="/LICENSE"><img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="MIT"></a>
-  <a href="https://medium.com/@sandoche" target="_blank"><img src="https://badgen.net/badge/icon/medium?icon=medium&label" alt="medium: sandoche"></a>
-  <a href="https://twitter.com/sandochee">
-    <img alt="Twitter: sandochee" src="https://img.shields.io/twitter/follow/sandochee.svg?style=social" target="_blank" />
-  </a>
-</p>
+# App-Landing_Page
 
-📱 Free to use static generated landing page template for your mobile app
+This is a clean and modern Free responsive app landing-page template for Mobile App. Built with Bootstrap 4.1.x frontend Framework. The codebase is well organized and very easy to customize. Best suited to present and promote your startup mobile apps in your official website. The overall design is simple and clean, crafted with great assuring pixel perfection, so that the bootstrap based landing-page template can adapt automatically vast array of screen and devices like Desktop, Mobile phone, Iphone, Ipad, feature phone and Google android powered devices. So, grab the template, add easy allowing customization, and go live.
 
-## 💡 Features
-Mobile App Landing Page Template comes with pre-installed features and options:
-- Display app icon
-- Show unlimited app screenshots
-- Link to Google Play
-- Link to the AppStore
-- Link to the Web App
-- Press mention section
-- Product Hunt floating prompt
-- Privacy policy Page
-- Google Analytics
-- Cookie Consent
-- Automatic dark theme
-- Doorbell widget
-- Github forking banner
 
-## ✨ Demo
-Check out websites using the Mobile App Template:
-- https://mobileapplandingpage.learn.uno (demo website)
-- https://gitnews.learn.uno
-- https://textblast.learn.uno
-- https://infinideas.learn.uno
-- https://www.therandominion.com/
+## Download and Installation
 
-## 📖 How to use
+- Clone the repo:https://github.com/robinbansal/App-Landing-Page.git
+- [Fork, Clone, or Download on GitHub](https://github.com/robinbansal/App-Landing-Page)
 
-### The normal way
+## Live Preview
+  [View Live Preview](https://robinbansal.github.io/App-Landing_Page/)
+## App-Landing-Page Template
 
-1. Fork this project
-2. Edit `_config.yml`, feel free to commut/uncomment what you need (google analtytics, or github for example)
-3. Edit `_data/app.yml` with your app data
-4. Update the text from `_data/strings.yml`, you can customize there the footer's links
-5. Edit icons and screenshots inside the `_images` folder and `icon.png` in the root
-6. Edit `_src/index.js` to update the product hunt modal (or to remove it) and to remove the darkmode plugin if you don't want it
-7. Deploy (on netlify, gitpages or surge, they are all free)
+  ![2018-04-28](https://user-images.githubusercontent.com/26331958/39387011-eb1a5a4a-4a94-11e8-82a5-0de955b9acc2.png)
 
-### The no-code way
+  ![2018-04-28 1](https://user-images.githubusercontent.com/26331958/39387057-1e61afb6-4a95-11e8-93cf-5861a7ccb65e.png)
 
-1. Go to https://t3mpl.n4no.com/editor/#manifest=../templates/mobile-app-landing-page/template.yaml
-2. Edit the settings on the left part
-3. Click on the `Publish` button then `Save Webpage as .zip`
-4. Unzip and upload the folder to your server (you can drag'n'drop it in Netlify to host it there for free)
+App landing page is a free, responsive website theme , using the Bootstrap 4 framework and HTML5 layouts, converted from a HTML template, without any 3rd party dependencies.
 
-## ⚙️ How to run
+## Responsive Design!
 
-### Pre-requisites
-- NodeJS
-- Ruby, Bundler
+Change the size and it responds in turn.
 
-### Install
-```
-npm install
-bundler install
-```
+![2018-04-28 2](https://user-images.githubusercontent.com/26331958/39387102-64f039e8-4a95-11e8-9a6b-9ddd96f1301f.png)![2018-04-28 3](https://user-images.githubusercontent.com/26331958/39387120-7f6a8738-4a95-11e8-8d7d-557ae6b90299.png)
 
-### Development
-```
-npm start
-```
 
-### Build
-```
-npm run build
-```
 
-### Deploy to netlify (for free)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sandoche/Mobile-app-landingpage-template)
+## Features
+- Fully Responsive
+- HTML5 + CSS3
+- Built on Bootstrap 4
+- LESS files included
+- Compatible with all modern browsers
 
-### More documentation
-This templates uses [Jekyll-webpack-boilerplate](https://github.com/sandoche/Jekyll-webpack-boilerplate), read more documentation there.
 
-## 🤝 Contributing
-Contributions, issues and feature requests are welcome!
 
-## ⭐️ Show your support
-Please ⭐️ this repository if this project helped you!
 
-<a href="https://www.patreon.com/sandoche">[![patreon.png](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/sandoche)</a>
 
-## 🍺 Buy me a beer 
-If you like this project, feel free to donate:
-* PayPal: https://www.paypal.me/kanbanote
-* Bitcoin: 19JiNZ1LkMaz57tewqJaTg2hQWH4RgW4Yp
-* Ethereum: 0xded81fa4624e05339924355fe3504ba9587d5419
-* Monero: 43jqzMquW2q989UKSrB2YbeffhmJhbYb2Yxu289bv7pLRh4xVgMKj5yTd52iL6x1dvCYs9ERg5biHYxMjGkpSTs6S2jMyJn
-* Motive: MOTIV-25T5-SD65-V7LJ-BBWRD (Get Motive Now: https://motive.network)
+
+
+
+
+
+
+
+
+
+
+
+
+## Bugs and Issues
+ Have a bug or an issue with this template?[Open a new issue](https://github.com/robinbansal/App-Landing-Page/issues/new) here on Github.
+ 
+## Features
+
+ - Responsive design
+ - High overall quality
+ - Animated testimonials
+ - Reveals Animation when scrolling
+ - Contact Box
+ 
+ ## License
+ 
+   MIT License
+
+Copyright (c) 2018 Robin Bansal
+ 
+ 
+ 
